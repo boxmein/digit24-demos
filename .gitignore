@@ -1,3 +1,7 @@
 venv
 *.pyc
 .terraform
+iac/terraform.tfstate
+iac/terraform.tfstate.backup
+results
+*.tfstate.lock.info
